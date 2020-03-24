@@ -1,6 +1,5 @@
 import bs4 as bs
 import urllib.request
-import pandas as pd
 
 def get_tab(url, t_vals, search="head", t_id=0, wikitable_class='wikitable sortable'):
     '''Extract a specific table from a wikipedia URL and return it as a list of lists.
