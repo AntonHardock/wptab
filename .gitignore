@@ -1,3 +1,4 @@
-/mydocs
 __pycache__/
+mydocs/
+.ipynb_checkpoints/
 test.py
